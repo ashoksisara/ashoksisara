@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Flutter and open source projects.
 - 💬 Ask me about Flutter or Firebase
 - 📫 How to reach me: Check social links below.
-- 👯 I’m looking to collaborate on Flutter.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
