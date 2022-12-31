@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter or Firebase
 - 📫 How to reach me: Check social links below.
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 👯 I’m looking to collaborate on Flutter.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
